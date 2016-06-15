@@ -14,6 +14,7 @@ This add-on has been tested on Firefox 49.0
 
 - In Firefox navigate to [about:debugging#addons](about:debugging#addons)
 - Click "Load Temporary Add-on"
-- Select the JoinFirefox folder
+- Find the JoinFirefox folder
+- Select the manifest.json file
 - Log-in to your google account in the tab that pops-up
 - Right-click any page to see the Join options
